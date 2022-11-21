@@ -1,0 +1,1346 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="FigPipelineDataP.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path1356"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="533.251"
+     inkscape:cy="402.32552"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g913"
+     showgrid="false"
+     inkscape:window-width="2493"
+     inkscape:window-height="1385"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g982"
+       transform="matrix(0.37012988,0,0,0.38566822,-24.383728,43.55996)">
+      <g
+         id="g913">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.3233844;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect960"
+           width="1015.3251"
+           height="511.49405"
+           x="-132.01482"
+           y="1.0848013"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path817"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 99.316388,118.38124 v 41.95901"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 99.316388,169.34025 -4.5,-9 h 9.000002 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect821"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="80.460258"
+           x="39.316902"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect829"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="170.46027"
+           x="39.316902"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g835"
+           transform="translate(-0.5,-0.5)">
+          <switch
+             id="switch833">
+            <foreignObject
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+               height="100%"
+               width="100%"
+               pointer-events="none"
+               style="overflow: visible; text-align: left;">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 120px; margin-left: 12px;">
+                <xhtml:div
+                   data-drawio-colors="color: rgb(0, 0, 0); "
+                   style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Racon</xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+          </switch>
+        </g>
+        <rect
+           id="rect837"
+           pointer-events="all"
+           ry="7.5"
+           rx="7.5"
+           height="50"
+           width="120"
+           y="350.46027"
+           x="39.316902"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g843"
+           transform="translate(-0.5,-0.5)">
+          <switch
+             id="switch841">
+            <foreignObject
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+               height="100%"
+               width="100%"
+               pointer-events="none"
+               style="overflow: visible; text-align: left;">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 305px; margin-left: 12px;">
+                <xhtml:div
+                   data-drawio-colors="color: rgb(0, 0, 0); "
+                   style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                    <xhtml:div>Juicer</xhtml:div>
+                    <xhtml:div>3D-DNA</xhtml:div>
+                    <xhtml:div>Juicebox<xhtml:br />
+</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+          </switch>
+        </g>
+        <rect
+           id="rect845"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="260.46024"
+           x="39.316902"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g851"
+           transform="translate(-0.5,-0.5)">
+          <switch
+             id="switch849">
+            <foreignObject
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+               height="100%"
+               width="100%"
+               pointer-events="none"
+               style="overflow: visible; text-align: left;">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 210px; margin-left: 12px;">
+                <xhtml:div
+                   data-drawio-colors="color: rgb(0, 0, 0); "
+                   style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Pilon</xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+          </switch>
+        </g>
+        <path
+           id="path853"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 99.076388,210.46026 v 39.88"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path855"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 99.076388,259.34026 -4.5,-9 h 9.000002 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path857"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 99.076388,300.46026 v 39.88"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path859"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 99.076388,349.34026 -4.5,-9 h 9.000002 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path861"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 99.076388,400.46026 v 39.88"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path863"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 99.076388,449.34026 -4.5,-9 h 9.000002 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect865"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="450.4603"
+           x="39.316902"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g871"
+           transform="translate(-0.5,-0.5)">
+          <switch
+             id="switch869">
+            <foreignObject
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+               height="100%"
+               width="100%"
+               pointer-events="none"
+               style="overflow: visible; text-align: left;">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 400px; margin-left: 12px;">
+                <xhtml:div
+                   data-drawio-colors="color: rgb(0, 0, 0); "
+                   style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Pilon</xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+          </switch>
+        </g>
+        <rect
+           id="rect873"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="80.460258"
+           x="209.31709"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g879"
+           transform="translate(-0.5,-0.5)">
+          <switch
+             id="switch877">
+            <foreignObject
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+               height="100%"
+               width="100%"
+               pointer-events="none"
+               style="overflow: visible; text-align: left;">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 30px; margin-left: 182px;">
+                <xhtml:div
+                   data-drawio-colors="color: rgb(0, 0, 0); "
+                   style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Hifiasm</xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+          </switch>
+        </g>
+        <path
+           id="path881"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 269.07633,120.46025 0.05,115.00001 0.17,104.88"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path883"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 269.31633,349.34026 -4.52,-8.99 9,-0.02 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <g
+           id="g891"
+           transform="translate(-0.5,-0.5)">
+          <switch
+             id="switch889">
+            <foreignObject
+               requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+               height="100%"
+               width="100%"
+               pointer-events="none"
+               style="overflow: visible; text-align: left;">
+              <xhtml:div
+                 style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 305px; margin-left: 182px;">
+                <xhtml:div
+                   data-drawio-colors="color: rgb(0, 0, 0); "
+                   style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                  <xhtml:div
+                     style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                    <xhtml:div>Juicer</xhtml:div>
+                    <xhtml:div>3D-DNA</xhtml:div>
+                    <xhtml:div>Juicebox<xhtml:br />
+</xhtml:div>
+                  </xhtml:div>
+                </xhtml:div>
+              </xhtml:div>
+            </foreignObject>
+          </switch>
+        </g>
+        <rect
+           id="rect895"
+           pointer-events="all"
+           height="62.166454"
+           width="507.28522"
+           y="67.85183"
+           x="-122.92199"
+           style="fill:#0000ff;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.89295268;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 390.17683,1.491841 V 511.64435"
+           id="path986"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           x="70.340012"
+           y="107.5632"
+           id="text990"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988"
+             x="70.340012"
+             y="107.5632"
+             style="font-size:14.00581837px;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none">Wtdbg2</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           x="238.2282"
+           y="108.02571"
+           id="text990-3"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="238.2282"
+             y="108.02571"
+             style="font-size:14.00581837px;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+             id="tspan1010">Hifiasm</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           x="76.361008"
+           y="199.46368"
+           id="text990-7"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-5"
+             x="76.361008"
+             y="199.46368"
+             style="font-size:14.00581837px;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none">Racon</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           x="80.362595"
+           y="289.90125"
+           id="text990-35"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-6"
+             x="80.362595"
+             y="289.90125"
+             style="font-size:14.00581837px;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none">Pilon</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           x="97.761032"
+           y="378.93832"
+           id="text990-2"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="97.761032"
+             y="378.93832"
+             style="font-size:14.00581837px;text-align:center;text-anchor:middle;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+             id="tspan1056">Juicer / 3D-DNA</tspan><tspan
+             sodipodi:role="line"
+             x="97.761032"
+             y="396.44559"
+             style="font-size:14.00581837px;text-align:center;text-anchor:middle;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+             id="tspan1058">Juicebox</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           x="79.562302"
+           y="484.38205"
+           id="text990-1"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-2"
+             x="79.562302"
+             y="484.38205"
+             style="font-size:14.00581837px;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none">Pilon</tspan></text>
+        <rect
+           id="rect837-7"
+           pointer-events="all"
+           ry="7.5000005"
+           rx="7.5"
+           height="50.000004"
+           width="120"
+           y="350.08536"
+           x="208.69063"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           x="263.6857"
+           y="378.5556"
+           id="text990-2-0"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="263.6857"
+             y="378.5556"
+             style="font-size:14.00581837px;text-align:center;text-anchor:middle;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+             id="tspan1056-9">Juicer / 3D-DNA</tspan><tspan
+             sodipodi:role="line"
+             x="263.6857"
+             y="396.06287"
+             style="font-size:14.00581837px;text-align:center;text-anchor:middle;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+             id="tspan1058-3">Juicebox</tspan></text>
+        <rect
+           id="rect873-6"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="159.62987"
+           x="585.06958"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="606.33514"
+           y="190.24059"
+           id="text990-3-0"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="606.33514"
+             y="190.24059"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-6">Hifiasm</tspan></text>
+        <rect
+           id="rect895-8"
+           pointer-events="all"
+           height="153.70695"
+           width="506.99597"
+           y="157.46773"
+           x="-122.77685"
+           style="opacity:1;fill:#ff00b4;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect895-7"
+           pointer-events="all"
+           height="79.176376"
+           width="506.90198"
+           y="336.08517"
+           x="-122.72985"
+           style="fill:#008000;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="228.07951"
+           y="28.287382"
+           id="text990-3-7"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="228.07951"
+             y="28.287382"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-5">PacBio HiFi</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-25.811907"
+           y="150.06027"
+           id="text990-20-9"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-23-2"
+             x="-25.811907"
+             y="150.06027"
+             style="font-size:14.00581837px;stroke-width:0.70029092">Oxford Nanopore</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-15.610064"
+           y="240.5649"
+           id="text990-20-9-2"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-23-2-8"
+             x="-15.610064"
+             y="240.5649"
+             style="font-size:14.00581837px;stroke-width:0.70029092">10X Chromium</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-61.661819"
+           y="334.59186"
+           id="text990-20-9-2-9"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-23-2-8-7"
+             x="-61.661819"
+             y="334.59186"
+             style="font-size:14.00581837px;stroke-width:0.70029092">Hi-C + 10X Chromium</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-12.780413"
+           y="438.57977"
+           id="text990-20-9-2-3"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-23-2-8-6"
+             x="-12.780413"
+             y="438.57977"
+             style="font-size:14.00581837px;stroke-width:0.70029092">10X Chromium</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="33.64299"
+           y="25.573271"
+           id="text990-20"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan988-23"
+             x="33.64299"
+             y="25.573271"
+             style="font-size:14.00581837px;stroke-width:0.70029092">Oxford Nanopore</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-113.64687"
+           y="89.561646"
+           id="text1300"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298"
+             x="-113.64687"
+             y="89.561646"
+             style="font-size:16.80698204px;stroke-width:0.70029092">Assembly</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-115.16505"
+           y="177.6716"
+           id="text1300-1"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-2"
+             x="-115.16505"
+             y="177.6716"
+             style="font-size:16.80698204px;stroke-width:0.70029092">Polishing</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-114.62343"
+           y="360.8884"
+           id="text1300-9"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-3"
+             x="-114.62343"
+             y="360.8884"
+             style="font-size:16.80698204px;stroke-width:0.70029092">Scaffolding</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-115.16505"
+           y="464.16885"
+           id="text1300-19"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-4"
+             x="-115.16505"
+             y="464.16885"
+             style="font-size:16.80698204px;stroke-width:0.70029092">Polishing</tspan></text>
+        <path
+           id="path817-8"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 99.316828,33.914881 v 36.26983"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 99.316828,79.184711 -4.5,-9 h 9.000002 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path817-8-5"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 269.07633,34.028111 v 36.26983"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-0"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 269.07633,79.297941 -4.5,-9 h 9 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7.5999999;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect895-3"
+           pointer-events="all"
+           height="62.202526"
+           width="483.31271"
+           y="149.66728"
+           x="395.11902"
+           style="fill:#0000ff;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.2921114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="391.34451"
+           y="169.35345"
+           id="text1300-6"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-1"
+             x="391.34451"
+             y="169.35345"
+             style="font-size:16.80698204px;stroke-width:0.70029092">Assembly</tspan></text>
+        <rect
+           style="opacity:1;fill:none;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.79656935;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect1753"
+           width="1015.3252"
+           height="511.49405"
+           x="-132.01482"
+           y="1.0848013"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect895-8-9"
+           pointer-events="all"
+           height="65.836411"
+           width="506.90222"
+           y="435.98688"
+           x="-122.72997"
+           style="fill:#ff00b4;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="501.62051"
+           y="28.288267"
+           id="text990-3-7-0-0"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:transform-center-x="6.9490077"
+           inkscape:transform-center-y="2.6726953"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="501.62051"
+             y="28.288267"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-5-6-6">Maternal Illumina</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="639.91693"
+           y="28.288267"
+           id="text990-3-7-0-0-1"
+           inkscape:transform-center-x="6.9490077"
+           inkscape:transform-center-y="2.6726953"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="639.91693"
+             y="28.288267"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-5-6-6-5">Paternal Illumina</tspan></text>
+        <rect
+           id="rect873-6-5"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="80.621651"
+           x="515.41467"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="529.69354"
+           y="108.19157"
+           id="text990-3-0-4"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="529.69354"
+             y="108.19157"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-6-7">Yak count</tspan></text>
+        <rect
+           id="rect873-6-5-6"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="80.240852"
+           x="653.42932"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="664.8996"
+           y="107.80283"
+           id="text990-3-0-4-5"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="664.8996"
+             y="107.80283"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-6-7-6">Yak count</tspan></text>
+        <path
+           id="path817-8-9"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 576.13633,33.280061 v 36.26983"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-3"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 576.13633,78.549901 -4.5,-9.00001 h 9 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path817-8-7"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 711.16823,33.986991 v 36.26984"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-4"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 711.16823,79.256831 -4.5,-9 h 9 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path817-8-9-5"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 577.20243,120.27191 24.9664,27.22842"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-3-2"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 608.36403,154.2568 -9.5734,-3.90345 6.7565,-5.70603 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path817-8-9-5-4"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 710.71733,120.31599 -24.9658,27.22981"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.32340038;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-3-2-3"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 679.55653,154.30262 9.5732,-3.90366 -6.7563,-5.70631 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.32340038;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="591.26251"
+           y="62.729687"
+           id="text990-3-7-0-0-3"
+           inkscape:transform-center-x="6.9490077"
+           inkscape:transform-center-y="2.6726953"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="591.26251"
+             y="62.729687"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-5-6-6-6">PacBio HiFi</tspan></text>
+        <path
+           id="path817-8-9-7"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="M 642.71423,68.376001 V 146.22592"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-3-5"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 642.71423,155.59858 -4.5,-8.99999 h 9 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect873-2"
+           pointer-events="all"
+           ry="6"
+           rx="6"
+           height="40"
+           width="120"
+           y="418.74347"
+           x="585.42383"
+           style="fill:#ffffff;stroke:#000000;stroke-width:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="606.68182"
+           y="454.73785"
+           id="text990-3-6"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="606.68182"
+             y="454.73785"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-1">Hifiasm</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="559.02728"
+           y="326.97827"
+           id="text990-3-7-0-0-3-3"
+           inkscape:transform-center-x="6.9490077"
+           inkscape:transform-center-y="2.6726953"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="559.02728"
+             y="326.97827"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-5-6-6-6-5">PacBio HiFi</tspan></text>
+        <path
+           id="path817-8-9-7-6"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 609.80923,327.24614 v 77.85004"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-3-5-2"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 609.80923,414.46887 -4.5,-9.00002 h 9 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.00581837px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="649.94061"
+           y="326.97943"
+           id="text990-3-7-0-0-3-3-9"
+           inkscape:transform-center-x="6.9490077"
+           inkscape:transform-center-y="2.6726953"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="649.94061"
+             y="326.97943"
+             style="font-size:14.00581837px;stroke-width:0.70029092"
+             id="tspan1010-5-6-6-6-5-1">Hi-C</tspan></text>
+        <path
+           id="path817-8-9-7-6-2"
+           pointer-events="stroke"
+           stroke-miterlimit="10"
+           d="m 678.30683,327.24722 v 77.85003"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:10;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           id="path819-4-3-5-2-7"
+           pointer-events="all"
+           stroke-miterlimit="10"
+           d="m 678.30683,414.46993 -4.5,-9.00001 h 9 z"
+           inkscape:connector-curvature="0"
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-miterlimit:7;stroke-dasharray:none"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect895-3-0"
+           pointer-events="all"
+           height="62.202526"
+           width="483.31274"
+           y="68.812233"
+           x="393.7948"
+           style="fill:#00ffff;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.2921114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="389.9971"
+           y="86.605392"
+           id="text1300-6-9"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             x="389.9971"
+             y="86.605392"
+             style="font-size:16.80698204px;stroke-width:0.70029092"
+             id="tspan1093">Preliminary</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="391.39774"
+           y="104.21571"
+           id="text1300-6-6"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-1-0"
+             x="391.39774"
+             y="104.21571"
+             style="font-size:16.80698204px;stroke-width:0.70029092">treatment</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.82128263;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 390.63103,260.98982 492.079,6e-5"
+           id="path986-6"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <rect
+           id="rect895-3-2"
+           pointer-events="all"
+           height="62.202526"
+           width="483.31274"
+           y="407.61688"
+           x="395.11902"
+           style="fill:#0000ff;fill-opacity:0.19607843;stroke:#000000;stroke-width:1.2921114;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="391.99124"
+           y="434.60028"
+           id="text1300-6-61"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-1-8"
+             x="391.99124"
+             y="434.60028"
+             style="font-size:16.80698204px;stroke-width:0.70029092">Assembly</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="386.48856"
+           y="283.78171"
+           id="text1300-6-61-7"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-1-8-9"
+             x="386.48856"
+             y="283.78171"
+             style="font-size:16.80698204px;stroke-width:0.70029092">C</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="-124.46431"
+           y="18.587187"
+           id="text1300-6-61-7-2"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-1-8-9-0"
+             x="-124.46431"
+             y="18.587187"
+             style="font-size:16.80698204px;stroke-width:0.70029092">A</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:28.01163673px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.70029092"
+           x="386.95792"
+           y="19.280363"
+           id="text1300-6-61-7-23"
+           transform="scale(1.0207746,0.9796482)"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300"><tspan
+             sodipodi:role="line"
+             id="tspan1298-1-8-9-7"
+             x="386.95792"
+             y="19.280363"
+             style="font-size:16.80698204px;stroke-width:0.70029092">B</tspan></text>
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 390.02163,283.6857 24.37,6e-5"
+           id="path986-6-5"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 413.72923,284.31379 v -23.3882"
+           id="path986-6-5-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 389.66843,23.318041 24.37,6e-5"
+           id="path986-6-5-97"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 413.37603,23.946131 V 0.55793096"
+           id="path986-6-5-9-3"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -131.65358,23.416051 24.37005,6e-5"
+           id="path986-6-5-2"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1.3233844;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -107.94598,24.044141 7e-5,-23.38821004"
+           id="path986-6-5-9-9"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc"
+           inkscape:export-filename="/home/cbirbes/Documents/Presentations/dataP/FigurePipeline.png"
+           inkscape:export-xdpi="300"
+           inkscape:export-ydpi="300" />
+      </g>
+      <switch
+         id="switch921">
+        <g
+           id="g915"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" />
+        <a
+           id="a919"
+           target="_blank"
+           xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems"
+           transform="translate(0,-5)" />
+      </switch>
+    </g>
+  </g>
+</svg>
